@@ -1,1 +1,1 @@
-# BSc_Thesis_ARIMA
+# BSc Thesis ARIMA
